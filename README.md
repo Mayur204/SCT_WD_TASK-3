@@ -1,1 +1,1 @@
-# SCT_WD_TASK-3
+A basic TIC-TAC-TOE Game applocation
